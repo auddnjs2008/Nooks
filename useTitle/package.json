@@ -1,0 +1,25 @@
+{
+  "name": "@mwnooks/use-title",
+  "version": "1.0.0",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auddnjs2008/Nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "title"
+  ],
+  "author": "M.W <auddnjs2008@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auddnjs2008/Nooks/issues"
+  },
+  "homepage": "https://github.com/auddnjs2008/Nooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  }
+}
